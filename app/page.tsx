@@ -25,8 +25,8 @@ export default async function page() {
           <SearchBar />
 
           <div className="flex justify-start flex-wrap items-center gap-2">
-            <CustomFilter  title="fuel"/>
-            <CustomFilter  title="year"/>
+            <CustomFilter  />
+            <CustomFilter  />
           </div>
         </div>
 

@@ -21,7 +21,7 @@ export default function Hero() {
             title="Explore Cars"
             containerStyles= "bg-primary-blue text-white rounded-md mt-10 w-[40%] md:w-[30%]"
             handleClick= {handleScroll}
-            type= {"button"}
+            btnType= {"button"}
             />
         </div>
 
